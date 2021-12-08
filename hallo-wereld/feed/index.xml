@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Reacties voor Software Developer | Kenneth Gerrits	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Reacties op: Hallo wereld.	</title>
+	<atom:link href="/hallo-wereld/feed/" rel="self" type="application/rss+xml" />
+	<link>/hallo-wereld/</link>
 	<description>Portfolio van Kenneth Gerrits, Software Ontwikkelaar.</description>
 	<lastBuildDate>Tue, 12 May 2020 15:34:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.4.8</generator>
 	<item>
 		<title>
-		Reactie op Hallo wereld. door Een WordPress commentator		</title>
+		Door: Een WordPress commentator		</title>
 		<link>/hallo-wereld/#comment-1</link>
 
 		<dc:creator><![CDATA[Een WordPress commentator]]></dc:creator>
