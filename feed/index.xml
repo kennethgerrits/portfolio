@@ -12,7 +12,7 @@
 	<atom:link href="https://kennethgerrits.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kennethgerrits.github.io/portfolio/</link>
 	<description>Portfolio van Kenneth Gerrits, Software Ontwikkelaar.</description>
-	<lastBuildDate>Tue, 12 May 2020 15:34:42 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Dec 2021 18:10:43 +0000</lastBuildDate>
 	<language>nl</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,25 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4.8</generator>
 	<item>
-		<title>Hallo wereld.</title>
-		<link>https://kennethgerrits.github.io/portfolio/hallo-wereld/</link>
-					<comments>https://kennethgerrits.github.io/portfolio/hallo-wereld/#comments</comments>
+		<title>Een nieuwe start</title>
+		<link>https://kennethgerrits.github.io/portfolio/een-nieuwe-start/</link>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 12 May 2020 15:34:42 +0000</pubDate>
+		<dc:creator><![CDATA[Kenneth]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 18:10:42 +0000</pubDate>
 				<category><![CDATA[Geen categorie]]></category>
-		<guid isPermaLink="false">https://kennethgerrits.github.io/portfolio/?p=1</guid>
+		<guid isPermaLink="false">https://kennethgerrits.github.io/portfolio/?p=228</guid>
 
-					<description><![CDATA[<p>Welkom bij WordPress. Dit is je eerste bericht. Bewerk of verwijder het, start dan met schrijven!</p>
-<p>Het bericht <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/hallo-wereld/">Hallo wereld.</a> verscheen eerst op <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/">Software Developer | Kenneth Gerrits</a>.</p>
+					<description><![CDATA[<p>WordPress hosting door GitHub pages!</p>
+<p>Het bericht <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/een-nieuwe-start/">Een nieuwe start</a> verscheen eerst op <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/">Software Developer | Kenneth Gerrits</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Welkom bij WordPress. Dit is je eerste bericht. Bewerk of verwijder het, start dan met schrijven!</p>
-<p>Het bericht <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/hallo-wereld/">Hallo wereld.</a> verscheen eerst op <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/">Software Developer | Kenneth Gerrits</a>.</p>
+<p>WordPress hosting door GitHub pages!</p>
+<p>Het bericht <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/een-nieuwe-start/">Een nieuwe start</a> verscheen eerst op <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/">Software Developer | Kenneth Gerrits</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://kennethgerrits.github.io/portfolio/hallo-wereld/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
