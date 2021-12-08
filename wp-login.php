@@ -7,11 +7,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Inloggen &lsaquo; Software Developer | Kenneth Gerrits &#8212; WordPress</title>
 	<link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://kennethgerrits.github.io/portfolio/wp-includes/css/dashicons.min.css?ver=5.4.8" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://kennethgerrits.github.io/portfolio/wp-includes/css/buttons.min.css?ver=5.4.8" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://kennethgerrits.github.io/portfolio/wp-admin/css/forms.min.css?ver=5.4.8" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://kennethgerrits.github.io/portfolio/wp-admin/css/l10n.min.css?ver=5.4.8" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://kennethgerrits.github.io/portfolio/wp-admin/css/login.min.css?ver=5.4.8" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://kennethgerrits.github.io/portfolio/wp-includes/css/dashicons.min.css?ver=5.4.8" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://kennethgerrits.github.io/portfolio/wp-includes/css/buttons.min.css?ver=5.4.8" media="all">
+<link rel="stylesheet" id="forms-css" href="https://kennethgerrits.github.io/portfolio/wp-admin/css/forms.min.css?ver=5.4.8" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://kennethgerrits.github.io/portfolio/wp-admin/css/l10n.min.css?ver=5.4.8" media="all">
+<link rel="stylesheet" id="login-css" href="https://kennethgerrits.github.io/portfolio/wp-admin/css/login.min.css?ver=5.4.8" media="all">
 	<meta name="robots" content="noindex,noarchive">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
@@ -56,33 +56,25 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog"><a href="https://kennethgerrits.github.io/portfolio/">
 		&larr; Terug naar Software Developer | Kenneth Gerrits		</a></p>
 			</div>
-	<script type="text/javascript" src="https://kennethgerrits.github.io/portfolio/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
-<script type="text/javascript" src="https://kennethgerrits.github.io/portfolio/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript">
-/*  */
+	<script src="https://kennethgerrits.github.io/portfolio/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script src="https://kennethgerrits.github.io/portfolio/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script>
 var _zxcvbnSettings = {"src":"https:\/\/kennethgerrits.github.io\/portfolio\/wp-includes\/js\/zxcvbn.min.js"};
-/*  */
 </script>
-<script type="text/javascript" src="https://kennethgerrits.github.io/portfolio/wp-includes/js/zxcvbn-async.min.js?ver=1.0"></script>
-<script type="text/javascript">
-/*  */
+<script src="https://kennethgerrits.github.io/portfolio/wp-includes/js/zxcvbn-async.min.js?ver=1.0"></script>
+<script>
 var pwsL10n = {"unknown":"Sterkte wachtwoord onbekend","short":"Erg zwak","bad":"Zwak","good":"Gemiddeld","strong":"Sterk","mismatch":"Verkeerde combinatie"};
-/*  */
 </script>
-<script type="text/javascript" src="https://kennethgerrits.github.io/portfolio/wp-admin/js/password-strength-meter.min.js?ver=5.4.8"></script>
-<script type="text/javascript" src="https://kennethgerrits.github.io/portfolio/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
-<script type="text/javascript">
-/*  */
+<script src="https://kennethgerrits.github.io/portfolio/wp-admin/js/password-strength-meter.min.js?ver=5.4.8"></script>
+<script src="https://kennethgerrits.github.io/portfolio/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script>
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
-/*  */
 </script>
-<script type="text/javascript" src="https://kennethgerrits.github.io/portfolio/wp-includes/js/wp-util.min.js?ver=5.4.8"></script>
-<script type="text/javascript">
-/*  */
+<script src="https://kennethgerrits.github.io/portfolio/wp-includes/js/wp-util.min.js?ver=5.4.8"></script>
+<script>
 var userProfileL10n = {"warn":"Je nieuwe wachtwoord is niet opgeslagen.","warnWeak":"Bevestig het gebruik van een zwak wachtwoord","show":"Tonen","hide":"Verbergen","cancel":"Annuleren","ariaShow":"Wachtwoord tonen","ariaHide":"Wachtwoord verbergen"};
-/*  */
 </script>
-<script type="text/javascript" src="https://kennethgerrits.github.io/portfolio/wp-admin/js/user-profile.min.js?ver=5.4.8"></script>
+<script src="https://kennethgerrits.github.io/portfolio/wp-admin/js/user-profile.min.js?ver=5.4.8"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
