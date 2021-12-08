@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Geen categorie &#8211; Software Developer | Kenneth Gerrits</title>
-	<atom:link href="/category/geen-categorie/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://kennethgerrits.github.io/portfolio/category/geen-categorie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kennethgerrits.github.io/portfolio/</link>
 	<description>Portfolio van Kenneth Gerrits, Software Ontwikkelaar.</description>
 	<lastBuildDate>Tue, 12 May 2020 15:34:42 +0000</lastBuildDate>
 	<language>nl</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.4.8</generator>
 	<item>
 		<title>Hallo wereld.</title>
-		<link>/hallo-wereld/</link>
-					<comments>/hallo-wereld/#comments</comments>
+		<link>https://kennethgerrits.github.io/portfolio/hallo-wereld/</link>
+					<comments>https://kennethgerrits.github.io/portfolio/hallo-wereld/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 12 May 2020 15:34:42 +0000</pubDate>
 				<category><![CDATA[Geen categorie]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://kennethgerrits.github.io/portfolio/?p=1</guid>
 
 					<description><![CDATA[<p>Welkom bij WordPress. Dit is je eerste bericht. Bewerk of verwijder het, start dan met schrijven!</p>
-<p>Het bericht <a rel="nofollow" href="/hallo-wereld/">Hallo wereld.</a> verscheen eerst op <a rel="nofollow" href="/">Software Developer | Kenneth Gerrits</a>.</p>
+<p>Het bericht <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/hallo-wereld/">Hallo wereld.</a> verscheen eerst op <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/">Software Developer | Kenneth Gerrits</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welkom bij WordPress. Dit is je eerste bericht. Bewerk of verwijder het, start dan met schrijven!</p>
-<p>Het bericht <a rel="nofollow" href="/hallo-wereld/">Hallo wereld.</a> verscheen eerst op <a rel="nofollow" href="/">Software Developer | Kenneth Gerrits</a>.</p>
+<p>Het bericht <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/hallo-wereld/">Hallo wereld.</a> verscheen eerst op <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/">Software Developer | Kenneth Gerrits</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hallo-wereld/feed/</wfw:commentRss>
+					<wfw:commentRss>https://kennethgerrits.github.io/portfolio/hallo-wereld/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
