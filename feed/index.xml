@@ -12,14 +12,46 @@
 	<atom:link href="https://kennethgerrits.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kennethgerrits.github.io/portfolio/</link>
 	<description>Portfolio van Kenneth Gerrits, Software Ontwikkelaar.</description>
-	<lastBuildDate>Wed, 08 Dec 2021 18:10:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Jan 2022 16:12:49 +0000</lastBuildDate>
 	<language>nl</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.8</generator>
+	<generator>https://wordpress.org/?v=5.4.9</generator>
 	<item>
+		<title>Intranet</title>
+		<link>https://kennethgerrits.github.io/portfolio/intranet/</link>
+		
+		<dc:creator><![CDATA[Kenneth]]></dc:creator>
+		<pubDate>Sun, 09 Jan 2022 16:11:21 +0000</pubDate>
+				<category><![CDATA[Geen categorie]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[SCSS]]></category>
+		<category><![CDATA[Timber]]></category>
+		<guid isPermaLink="false">https://kennethgerrits.github.io/portfolio/?p=241</guid>
+
+					<description><![CDATA[<p>Interne communicatie is erg belangrijk binnen bedrijven, vaak gebeurt dit via een intranet. Dit intranet bevat alle informatie die relevant is voor de werknemers, zoals: mededelingen over evenementen, informatie over procedures, aanwezigheid van medewerkers, etc. Middels PHP, SCSS en Timber is een volledig intranet op maak gemaakt. Er is een eigen thema ontwikkeld voor een &#8230; </p>
+<p class="link-more"><a href="https://kennethgerrits.github.io/portfolio/intranet/" class="more-link">Lees meer<span class="screen-reader-text"> "Intranet"</span></a></p>
+<p>Het bericht <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/intranet/">Intranet</a> verscheen eerst op <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/">Software Developer | Kenneth Gerrits</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Interne communicatie is erg belangrijk binnen bedrijven, vaak gebeurt dit via een intranet. Dit intranet bevat alle informatie die relevant is voor de werknemers, zoals: mededelingen over evenementen, informatie over procedures, aanwezigheid van medewerkers, etc.</p>
+
+
+
+<p>Middels PHP, SCSS en Timber is een volledig intranet op maak gemaakt. Er is een eigen thema ontwikkeld voor een unanieme huisstijl en er zijn verschillende taken geautomatiseerd om de werkdruk te verlichten.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://kennethgerrits.github.io/portfolio/wp-content/uploads/2022/01/homepage-new.png" alt="" class="wp-image-242" srcset="https://kennethgerrits.github.io/portfolio/wp-content/uploads/2022/01/homepage-new.png 619w, https://kennethgerrits.github.io/portfolio/wp-content/uploads/2022/01/homepage-new-300x172.png 300w" sizes="(max-width: 619px) 100vw, 619px" /></figure></div>
+<p>Het bericht <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/intranet/">Intranet</a> verscheen eerst op <a rel="nofollow" href="https://kennethgerrits.github.io/portfolio/">Software Developer | Kenneth Gerrits</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Een nieuwe start</title>
 		<link>https://kennethgerrits.github.io/portfolio/een-nieuwe-start/</link>
 		

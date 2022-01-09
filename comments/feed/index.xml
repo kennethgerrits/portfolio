@@ -11,11 +11,11 @@
 	<atom:link href="https://kennethgerrits.github.io/portfolio/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kennethgerrits.github.io/portfolio/</link>
 	<description>Portfolio van Kenneth Gerrits, Software Ontwikkelaar.</description>
-	<lastBuildDate>Wed, 08 Dec 2021 18:10:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Jan 2022 16:20:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.8</generator>
+	<generator>https://wordpress.org/?v=5.4.9</generator>
 </channel>
 </rss>
